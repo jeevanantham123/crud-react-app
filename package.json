@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "crud-react-app",
-=======
-  "name": "react-redux-tailwind-boilerplate",
->>>>>>> fcb05209eee5f27ada61a22751518c4955557430
   "private": false,
   "version": "0.0.0",
   "scripts": {
